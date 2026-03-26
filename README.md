@@ -8,7 +8,7 @@ Two complementary modalities are used:
 
 - **10X Xenium Prostate Cancer Progression** — in situ spatial gene expression profiling across 9 prostate/lung metastasis tissue samples, totaling ~2.09 million cells
 - **10X Xenium Post-Treatment** — in situ spatial gene expression profiling across 12 prostate tissue samples, totaling ~2.1 million cells
-- **ZmanSeq** — single-cell RNA-seq of immune cells across treatment timepoints
+- **ZmanSeq** — single-cell RNA-seq of tumor-infiltrating immune cells at different time points
 
 Conditions: wild-type control, 6-week post-transplant, 12-week post-transplant, lung normal/metastasis, and treatment arms (JAK inhibitor, anti-PD1, anti-GP120, combination).
 
