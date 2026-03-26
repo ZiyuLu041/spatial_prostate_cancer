@@ -5,7 +5,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Project Overview
 
 This is a spatial transcriptomics research project analyzing prostate cancer malignancy and treatment response using two complementary data modalities:
-- **10X Xenium**: High-resolution in situ spatial gene expression (~2.1M cells across 9 tissue samples)
+- **10X Xenium**: High-resolution in situ spatial gene expression (~4.1M cells across 21 tissue samples)
 - **ZmanSeq**: Single-cell transcriptomics with treatment timepoints (CD8+ T cells, neutrophils, macrophages, etc.)
 
 The notebooks in this `submit/` directory generate publication figures for manuscript submission.
