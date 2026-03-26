@@ -6,7 +6,8 @@ This repository contains Jupyter notebooks for analyzing spatial and single-cell
 
 Two complementary modalities are used:
 
-- **10X Xenium** — in situ spatial gene expression profiling across 9 prostate tissue samples (H2024-1069-18/19/29A/29B/40, H2024-959-2/3, H2024-1100-1/2), totaling ~2.1 million cells
+- **10X Xenium Prostate Cancer Progression** — in situ spatial gene expression profiling across 9 prostate/lung metastasis tissue samples, totaling ~2.09 million cells
+- **10X Xenium Post-Treatment** — in situ spatial gene expression profiling across 12 prostate tissue samples, totaling ~2.1 million cells
 - **ZmanSeq** — single-cell RNA-seq of immune cells across treatment timepoints
 
 Conditions: wild-type control, 6-week post-transplant, 12-week post-transplant, lung normal/metastasis, and treatment arms (JAK inhibitor, anti-PD1, anti-GP120, combination).
